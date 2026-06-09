@@ -11,7 +11,7 @@
 - 🌱 Currently improving Full Stack Development skills
 - 💻 Working with MERN Stack Technologies
 - 🚀 Interested in Software Development and Web Technologies
-- 🤝 Open to Full-Time and Internship Opportunities
+- 🤝 Open to Full-Time work oppertunity
 - 📍 Chennai, India
 
 ---
@@ -44,16 +44,13 @@
 ## 📂 Featured Projects
 
 ### AI mock interview
-MERN Stack application for managing expenses.
+MERN Stack application Tracking skill development.
 
 ### Authentication System
 JWT-based login and registration system.
 
 ### Portfolio Website
 Responsive portfolio built with React.js.
-
-### Class Management System
-Student and course management platform.
 
 
 ## 📫 Connect With Me
