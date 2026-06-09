@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi 👋, I'm Shree Nithiya K
 
-<!--
-**Shreenithiyak/Shreenithiyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN Stack)
 
-Here are some ideas to get you started:
+🚀 Passionate about building modern, scalable, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🌱 Currently improving Full Stack Development skills
+- 💻 Working with MERN Stack Technologies
+- 🚀 Interested in Software Development and Web Technologies
+- 🤝 Open to Full-Time and Internship Opportunities
+- 📍 Chennai, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap 5
+- Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📂 Featured Projects
+
+### AI mock interview
+MERN Stack application for managing expenses.
+
+### Authentication System
+JWT-based login and registration system.
+
+### Portfolio Website
+Responsive portfolio built with React.js.
+
+### Class Management System
+Student and course management platform.
+
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/shree-nithiya-k-b60213369/
+
+Portfolio: https://stack-experiments-gdvw.vercel.app/
+
+Email: nithiyashreek2004@gmail.com
+
